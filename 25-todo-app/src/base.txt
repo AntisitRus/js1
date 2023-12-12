@@ -1,0 +1,3 @@
+npm install
+npm i uuid
+npm i react-icons
